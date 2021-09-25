@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### Welcome to my profile!
+# About
 ### I am Electrical and Electronics Engineer currently working as Embedded System Engineer, working on developement and testing of Electric Vehicle Charging Systems with main focus on communication between EV(Electric Vehicle) and EVSE(Electric Vehicle Supply Equipment).
 <br>
 <a href="https://www.linkedin.com/in/shikha-singhal-3b1817174/">
@@ -35,3 +36,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.buymeacoffee.com/shikhasinghal2075" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
  -->
+  
+ # Skillset
+ - Programming Languages: C, Embedded C, Python
+ - IDEs: 
+  
