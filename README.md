@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 ### - Hardware Test Equipments: Oscilloscope, Digital Multimeter
 ### - Technologies: RFID, Wifi, GSM, Bluetooth
 ### - Microcontrollers and Processors: TI DSP, MSP430, STM32 Discovery kit, Raspberry Pi, Arduino UNO/NANO/MEGA
-### - Basics of Linux, Shell Script and Device Tree
-Modification
+### - Basics of Linux, Shell Script and Device Tree Modification
 ### - Good understanding of Duty Cycles for Electric Vehicles
   
  # Projects
