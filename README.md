@@ -8,8 +8,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shikhasinghal2075.shikhasinghal2075)
 <br/>
-
-
 <!--
 **shikhasinghal2075/shikhasinghal2075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,3 +27,11 @@ Here are some ideas to get you started:
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=gotham" alt="shikhasinghal2075" />
+
+- 💼 Any freelance work? do reach me, [email](mailto:shikhasinghal2075@gmail.com) :)
+- 💬 Ask me about anything, i am happy to help
+  
+<!--   if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/shikhasinghal2075" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+ -->
