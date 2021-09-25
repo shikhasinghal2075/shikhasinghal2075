@@ -57,4 +57,5 @@ Modification
 
  # Wanna have look to more work....
 ### Checkout: https://github.com/electrongonewild
-### 😄 Open to feedback or suggestions
+### 😄 Open to feedback and suggestions
+
