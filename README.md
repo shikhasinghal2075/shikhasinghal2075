@@ -10,7 +10,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=shikhasinghal2075.shikhasinghal2075)
 <br/>
 <!-- ![Shikha Singhal's Repository Stats](https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=dracula) -->
-
+📈 My GitHub Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=dracula" alt="shikhasinghal2075" /></p>
 <br/>
 <!--
@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=dark" alt="shikhasinghal2075" />
 
 - 💼 Any freelance work? do reach me, [email](mailto:shikhasinghal2075@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help
