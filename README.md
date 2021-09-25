@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  -->
   
  # Skillset
-### - Programming Languages: C, Embedded C, Python
+### - Programming Languages: C, Embedded C
 ### - IDEs: Code Composer Studio, Eclipse, STM Cube IDE, LabVIEW
 ### - Tools: Nextion Editor, Qt Designer, Arduino, STMCubeMX, STMCubeProgrammer, Latex, Wireshark, VNC Viewer, NMAP, Uniflash, Realterm, minicom
 ### - Communication Protocols: UART, I2C, CAN
