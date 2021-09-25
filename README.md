@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/shikha-singhal-3b1817174/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=shikhasinghal2075.shikhasinghal2075)
+<br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=dracula" alt="shikhasinghal2075" /></p>
 <br/>
 <!--
