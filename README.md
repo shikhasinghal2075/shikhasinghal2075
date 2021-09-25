@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=gotham" alt="shikhasinghal2075" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=dracula" alt="shikhasinghal2075" />
 
 - 💼 Any freelance work? do reach me, [email](mailto:shikhasinghal2075@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help
