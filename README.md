@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Welcome to my profile!
-### I am Embedded System Engineer, currently working on developement and testing of Electric Vehicle Charging Systems with main focus on communication between EV(Electric Vehicle) and EVSE(Electric Vehicle Supply Equipment).
+### I am Electrical and Electronics Engineer currently working as Embedded System Engineer, working on developement and testing of Electric Vehicle Charging Systems with main focus on communication between EV(Electric Vehicle) and EVSE(Electric Vehicle Supply Equipment).
 <br>
 <a href="https://www.linkedin.com/in/shikha-singhal-3b1817174/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
