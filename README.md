@@ -37,21 +37,21 @@ Here are some ideas to get you started:
  -->
   
  # Skillset
-### - Programming Languages: C, Embedded C
-### - IDEs: Code Composer Studio, Eclipse, STM Cube IDE, LabVIEW
-### - Tools: Nextion Editor, Qt Designer, Arduino, STMCubeMX, STMCubeProgrammer, Latex, Wireshark, VNC Viewer, NMAP, Uniflash, Realterm, minicom
-### - Communication Protocols: UART, I2C, CAN
-### - Hardware Test Equipments: Oscilloscope, Digital Multimeter
-### - Technologies: RFID, Wifi, GSM, Bluetooth
-### - Microcontrollers and Processors: TI DSP, MSP430, STM32 Discovery kit, Raspberry Pi, Arduino UNO/NANO/MEGA
-### - Basics of Linux, Shell Script and Device Tree Modification
-### - Good understanding of Duty Cycles for Electric Vehicles
+ - Programming Languages: C, Embedded C
+ - IDEs: Code Composer Studio, Eclipse, STM Cube IDE, LabVIEW
+ - Tools: Nextion Editor, Qt Designer, Arduino, STMCubeMX, STMCubeProgrammer, Latex, Wireshark, VNC Viewer, NMAP, Uniflash, Realterm, minicom
+ - Communication Protocols: UART, I2C, CAN
+ - Hardware Test Equipments: Oscilloscope, Digital Multimeter
+ - Technologies: RFID, Wifi, GSM, Bluetooth
+ - Microcontrollers and Processors: TI DSP, MSP430, STM32 Discovery kit, Raspberry Pi, Arduino UNO/NANO/MEGA
+ - Basics of Linux, Shell Script and Device Tree Modification
+ - Good understanding of Duty Cycles for Electric Vehicles
   
  # Projects
- ### - Smart Street Light System-https://github.com/shikhasinghal2075/Smart-Street-Light-System
- ### - Readout circuit for Biosensor-https://github.com/shikhasinghal2075/Readout-Circuit-for-Biosensor
- ### - Robotic Rehabilitation (Ankle Therapy Control)-https://github.com/shikhasinghal2075/Robotic-Rehabilitation-Ankle-Therapy-Control-
- ### - Mobile Detection System using Op-amps-https://github.com/shikhasinghal2075/Mobile-Detection-System-using-Op-amp
+  - Smart Street Light System-https://github.com/shikhasinghal2075/Smart-Street-Light-System
+  - Readout circuit for Biosensor-https://github.com/shikhasinghal2075/Readout-Circuit-for-Biosensor
+  - Robotic Rehabilitation (Ankle Therapy Control)-https://github.com/shikhasinghal2075/Robotic-Rehabilitation-Ankle-Therapy-Control-
+  - Mobile Detection System using Op-amps-https://github.com/shikhasinghal2075/Mobile-Detection-System-using-Op-amp
 
  # Wanna have look to more work....
 ### Checkout: https://github.com/electrongonewild
