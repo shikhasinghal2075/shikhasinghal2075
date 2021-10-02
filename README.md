@@ -11,7 +11,7 @@
 <br/>
 <!-- ![Shikha Singhal's Repository Stats](https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=dracula) -->
 📈 My GitHub Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=dracula" alt="shikhasinghal2075" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shikhasinghal2075&show_icons=true&theme=dark" alt="shikhasinghal2075" /></p>
 <br/>
 <!--
 **shikhasinghal2075/shikhasinghal2075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
