@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   - Smart Street Light System-https://github.com/shikhasinghal2075/Smart-Street-Light-System
   - Readout circuit for Biosensor-https://github.com/shikhasinghal2075/Readout-Circuit-for-Biosensor
   - Robotic Rehabilitation (Ankle Therapy Control)-https://github.com/shikhasinghal2075/Robotic-Rehabilitation-Ankle-Therapy-Control-
-  - Mobile Detection System using Op-amps-https://github.com/shikhasinghal2075/Mobile-Detection-System-using-Op-amp
+<!--   - Mobile Detection System using Op-amps-https://github.com/shikhasinghal2075/Mobile-Detection-System-using-Op-amp -->
 
  # Wanna have look to more work....
 ### Checkout: https://github.com/electrongonewild
