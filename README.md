@@ -39,9 +39,9 @@ Here are some ideas to get you started:
   
  # Skillset
  - Programming Languages: C, Embedded C, Python
- - IDEs: Code Composer Studio, Eclipse, STM Cube IDE, LabVIEW
+ - IDEs: Code Composer Studio, Eclipse, STM Cube IDE
  - Tools: Nextion Editor, Qt Designer, Arduino, STMCubeMX, STMCubeProgrammer, Latex, Wireshark, VNC Viewer, NMAP, Uniflash, Realterm, minicom
- - Communication Protocols: UART, I2C, CAN
+ - Communication Protocols: UART, I2C, CAN, MODBUS, RS232, RS485
  - Hardware Test Equipments: Oscilloscope, Digital Multimeter
  - Technologies: RFID, Wifi, GSM, Bluetooth
  - Microcontrollers and Processors: TI DSP, MSP430, STM32 Discovery kit, Raspberry Pi, Arduino UNO/NANO/MEGA
